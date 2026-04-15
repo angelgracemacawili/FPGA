@@ -1,0 +1,15 @@
+{D:/T09/3rd Term/FPGA_demo/Full Adder/testbench.v} {1 {vlog -work work -stats=none {D:/T09/3rd Term/FPGA_demo/Full Adder/testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {D:/T09/3rd Term/FPGA_demo/Full Adder/FullAdder_gate.v} {1 {vlog -work work -stats=none {D:/T09/3rd Term/FPGA_demo/Full Adder/FullAdder_gate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FullAdder_gate
+
+Top level modules:
+	FullAdder_gate
+
+} {} {}}
